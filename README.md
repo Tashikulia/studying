@@ -1,2 +1,2 @@
 # studying
-My first repository for studying examples
+My first repository for my studying examples
